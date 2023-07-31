@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "212531c9-d900-400c-9af9-be4bc192d17f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:482211574303:environment/proton-poc-test",
+    "templateArn" : "arn:aws:proton:us-east-1:482211574303:environment-template/test-network-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}

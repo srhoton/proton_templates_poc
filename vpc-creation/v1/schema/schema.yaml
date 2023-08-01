@@ -12,3 +12,5 @@ schema:
           description: "This CIDR range for your VPC"
           default: 192.168.0.0/16
           pattern: ([0-9]{1,3}\.){3}[0-9]{1,3}($|/(16|18|24))
+      required:
+        - default_cidr_block

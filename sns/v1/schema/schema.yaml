@@ -1,0 +1,13 @@
+schema:
+  format:
+    openapi: "3.0.0"
+  environment_input_type: "SnsEnvironmentInput"
+  types:
+    SnsEnvironmentInput:
+      type: object
+      description: "Input properties for SNS"
+      properties:
+        sns_name:
+          type: string
+          description: "The name of the SNS topic"
+          default: new_topic

@@ -1,4 +1,4 @@
-variable "sns-name" {
+variable "sns_name" {
   default = "sns-topic"
   type = string
 }
